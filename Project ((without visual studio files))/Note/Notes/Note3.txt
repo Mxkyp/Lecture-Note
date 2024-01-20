@@ -1,0 +1,12 @@
+
+
+CONNECTION BETWEEN LOGIC AND SET THEORY:
+Predicate Logic: Extends first-order logic and introduces predicates,which are statements 
+that may depend on variables.
+Set Theory as a Foundation: Set theory serves as a foundational framework for much of mathematics.
+Many mathematical structures, including numbers and functions, can be defined in terms of sets.
+
+Together, logic and set theory provide a rigorous basis for mathematical reasoning,
+allowing mathematicians to express and manipulate mathematical concepts precisely and systematically.
+They are crucial tools for understanding the structure of mathematical arguments
+and the relationships between various mathematical objects.

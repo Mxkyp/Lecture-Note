@@ -1,0 +1,6 @@
+
+
+LOGIC:
+Definition: Logic is the study of principles and rules used to distinguish between correct and incorrect reasoning.
+Propositional Logic: Involves statements that are either true or false,and it studies the relationships between these statements using logical connectives like AND, OR, and NOT.
+First-Order Logic: Introduces variables and quantifiers, allowing for the representation of mathematical structures and more complex logical relationships.

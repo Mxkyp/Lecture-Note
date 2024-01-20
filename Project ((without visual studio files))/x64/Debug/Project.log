@@ -1,0 +1,10 @@
+﻿  FileManipulation.c
+C:\Users\mikol\source\repos\Project\FileManipulation.c(15,6): warning C4101: 'c': unreferenced local variable
+C:\Users\mikol\source\repos\Project\FileManipulation.c(31,7): warning C4101: 'c': unreferenced local variable
+C:\Users\mikol\source\repos\Project\FileManipulation.c(70,6): warning C4101: 'c': unreferenced local variable
+C:\Users\mikol\source\repos\Project\FileManipulation.c(88,19): warning C4101: 'swapper': unreferenced local variable
+C:\Users\mikol\source\repos\Project\FileManipulation.c(216,34): warning C4020: 'ifExistsRead': too many actual parameters
+C:\Users\mikol\source\repos\Project\FileManipulation.c(216,70): warning C4020: 'ifExistsRead': too many actual parameters
+C:\Users\mikol\source\repos\Project\FileManipulation.c(222,34): warning C4020: 'ifExistsRead': too many actual parameters
+C:\Users\mikol\source\repos\Project\FileManipulation.c(222,70): warning C4020: 'ifExistsRead': too many actual parameters
+  Project.vcxproj -> C:\Users\mikol\source\repos\Project\x64\Debug\Project.exe

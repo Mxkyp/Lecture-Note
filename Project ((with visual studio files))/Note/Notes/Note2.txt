@@ -1,0 +1,10 @@
+
+
+SET THEORY:
+Definition: Set theory is the mathematical study of collections of objects, called sets,and the
+relationships between these sets.
+Sets:A set is a well-defined collection of distinct elements. Sets are often denoted by curly braces and can be finite or infinite.
+Operation on Sets:Common set operations include union (combining sets),intersection
+(common elements of sets), and complement (elements not in a set).
+Cardinality:The cardinality of a set is the measure of the "number of elements" in the set.
+Sets can be equal in cardinality without having the same elements.
